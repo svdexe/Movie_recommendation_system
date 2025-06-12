@@ -152,7 +152,7 @@ CampusX for the original tutorial that inspired this project
 
 ## 📬 Contact
 
-**Your Name** - your.email@example.com
+**Your Name** - shivamdali@gmail.com
 
 Project Link: [https://github.com/yourusername/movie-recommendation-system](https://github.com/yourusername/movie-recommendation-system)
 
