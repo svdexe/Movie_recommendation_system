@@ -1,18 +1,12 @@
 # 🎬 Movie Recommendation System
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</div>
+## 🖼️ Website Screenshot
 
 <div align="center">
-  <h3>🚀 Discover your next favorite movie with AI-powered recommendations</h3>
-  <p>A content-based movie recommendation system that suggests similar movies based on your selection using machine learning algorithms.</p>
+  <img src="https://github.com/svdexe/Movie_recommendation_system/blob/main/website_output.png" alt="Movie Recommendation Interface" width="800"/>
+  <p><i>Clean and intuitive movie selection interface showing Jurassic World recommendations</i></p>
 </div>
 
----
 
 ## ✨ Features
 
@@ -120,12 +114,6 @@ The recommendation system uses **Content-Based Filtering**:
 - **Features**: 20+ attributes per movie
 - **Time Period**: Various years of cinema
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="path/to/screenshot.png" alt="Movie Recommendation Interface" width="800"/>
-  <p><i>Clean and intuitive movie selection interface</i></p>
-</div>
 
 ## 🔮 Future Enhancements
 
